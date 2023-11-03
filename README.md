@@ -8,8 +8,6 @@ I used machine learning to analyze lending data for a financial institution. The
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
 - Machine Learning Model 1:
 
   - Model 1 Accuracy: 99%
